@@ -1,5 +1,4 @@
 # Electrohydrodynamic (EHD)/Ionic Thruster and 50kV 100W High Voltage Power Converter (HVPC)
-![EHD1](https://github.com/user-attachments/assets/135f1b46-0cd1-45d8-8c5d-33549affa975)
 
 The aim of this project was to construct a working EHD thruster powered by a custom 50kV 100W Flyback HVPC.
 
@@ -16,3 +15,4 @@ All four parts of this project were successfully completed. More information abo
 2. For schematics, 3D files and images, please see the respective ionic-thruster and HVPC folders.
 3. For the research paper abstract, please see the PDF in the main folder.
 
+![EHD1](https://github.com/user-attachments/assets/135f1b46-0cd1-45d8-8c5d-33549affa975)
