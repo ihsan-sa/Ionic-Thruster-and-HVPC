@@ -1,6 +1,7 @@
 # Electrohydrodynamic (EHD)/Ionic Thruster and 50kV 100W High Voltage Power Converter (HVPC)
 
 The aim of this project was to construct a working EHD thruster powered by a custom 50kV 100W Flyback HVPC.
+You may find my LinkedIn post about my project here: [https://www.linkedin.com/posts/ihsan-salari-6957aa221_iam-excited-to-share-the-subject-of-my-research-activity-7090835072915816448-yWUP?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/ihsan-salari-6957aa221_iam-excited-to-share-the-subject-of-my-research-activity-7090835072915816448-yWUP?utm_source=share&utm_medium=member_desktop)
 
 This project was split into four parts:
 1. Building the HVPC
