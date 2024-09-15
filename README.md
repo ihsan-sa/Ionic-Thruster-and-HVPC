@@ -18,3 +18,5 @@ All four parts of this project were successfully completed. More information abo
 3. For the research paper abstract, please see the PDF in the main folder.
 
 ![EHD1](https://github.com/user-attachments/assets/135f1b46-0cd1-45d8-8c5d-33549affa975)
+
+![IonThrusterMesuringDevice v5 Image](https://github.com/user-attachments/assets/cc9b3b1d-e6b4-4a6f-9e8e-13175878a3fe)
